@@ -1,7 +1,7 @@
 .more {
   display:block;
   width: 55px;
-  height: 16px;
+  height: 25px;
   background-image:url('https://s.pstatic.net/static/www/img/2017/sp_nav_v170523.png');
   background-position: 0 -78px;
 }
@@ -23,7 +23,7 @@
   display:block;
   background-image:url('https://s.pstatic.net/static/www/img/2017/sp_nav_v170523.png');
   width: 42px;
-  height: 16px;
+  height: 25px;
   background-position: -166px -78px;
 }
 
